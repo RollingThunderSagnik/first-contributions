@@ -16,6 +16,7 @@
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shravya Mallya](https://github.com/ShravyaMallya)
 - [Shreya Garg](https://github.com/einhawking)
+- [Sagnik Ganguly](https://github.com/RollingThunderSagnik)
 - [Asad Moosvi](https://github.com/asadmoosvi)
 -[Madison Reese](https://github.com/MadisonReese)
 -[Manas Sharma](https://github.com/Manas-E)
